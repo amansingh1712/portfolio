@@ -1,0 +1,24 @@
+@media (min-width: 375px) and (max-width: 667px) {
+  .amanImage {
+    margin-top: 280px;
+    margin-left: 100px;
+  }
+
+  #about {
+    margin-top: 280px;
+  }
+}
+
+@media (min-width: 687px) and (max-width: 1080px) {
+  .amanImage {
+    margin-top: 280px;
+    margin-left: 100px;
+  }
+}
+
+@media (min-width: 280px) and (max-width: 375px) {
+  .amanImage {
+    margin-top: 480px;
+    margin-left: 100px;
+  }
+}
